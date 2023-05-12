@@ -1,4 +1,7 @@
 import styles from "./style";
+import { Navbar,  Articles,  Button,  Company,  Contact,
+  Hero,  Mission,  Solutions,  
+  Services,  RemoteSupport, Footer} from  './components';
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
