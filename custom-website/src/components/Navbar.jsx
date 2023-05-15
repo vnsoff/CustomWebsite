@@ -1,8 +1,9 @@
-import React from 'react'
-
+import { useState } from "react";
+import {logo, menu, close} from '../assets';
+import {navLinks} from '../constants';
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <nav className="w-full"></nav>
   )
 }
 
